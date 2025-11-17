@@ -1,0 +1,94 @@
+{
+  "company": {
+    "name": "Audit-Pro Enterprise",
+    "tagline": "Precision Environmental Testing Solutions",
+    "legal_name": "Audit-Pro Enterprise Systems Private Limited",
+    "registration_number": "U29190KA2020PTC123456",
+    "tax_id": "GST29AABCU9603R1ZN",
+    "website": "www.auditpro-enterprise.com",
+    "email": "info@auditpro-enterprise.com",
+    "phone": "+91-80-1234-5678",
+    "support_email": "support@auditpro-enterprise.com",
+    "sales_email": "sales@auditpro-enterprise.com"
+  },
+  "address": {
+    "street": "123 Tech Park, Electronic City Phase 1",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "postal_code": "560100",
+    "country": "India"
+  },
+  "branding": {
+    "primary_color": "#1E3A8A",
+    "secondary_color": "#3B82F6",
+    "accent_color": "#10B981",
+    "text_color": "#1F2937",
+    "background_color": "#FFFFFF",
+    "logo_path": "assets/logos/company_logo.png",
+    "logo_small_path": "assets/logos/company_logo_small.png",
+    "favicon_path": "assets/logos/favicon.ico",
+    "font_family": "Inter, Helvetica, Arial, sans-serif",
+    "font_size_base": "14px"
+  },
+  "documents": {
+    "quote_template": "templates/quote_template.html",
+    "invoice_template": "templates/invoice_template.html",
+    "technical_spec_template": "templates/technical_spec_template.html",
+    "header_text": "QUOTATION FOR ENVIRONMENTAL TEST CHAMBER",
+    "footer_text": "Thank you for your interest in Audit-Pro Enterprise Solutions",
+    "terms_and_conditions_path": "config/terms_and_conditions.txt",
+    "signature_path": "assets/signatures/authorized_signatory.png",
+    "signature_name": "Rajesh Kumar",
+    "signature_title": "Director - Sales & Operations"
+  },
+  "certifications": [
+    {
+      "name": "ISO 9001:2015",
+      "description": "Quality Management System",
+      "certificate_number": "ISO9001-2020-12345",
+      "issuing_authority": "Bureau Veritas",
+      "valid_until": "2026-12-31",
+      "logo_path": "assets/certifications/iso9001.png"
+    },
+    {
+      "name": "ISO 14001:2015",
+      "description": "Environmental Management System",
+      "certificate_number": "ISO14001-2020-54321",
+      "issuing_authority": "TUV SUD",
+      "valid_until": "2026-12-31",
+      "logo_path": "assets/certifications/iso14001.png"
+    },
+    {
+      "name": "CE Marking",
+      "description": "European Conformity",
+      "certificate_number": "CE-2021-APE-001",
+      "issuing_authority": "SGS",
+      "valid_until": "2027-06-30",
+      "logo_path": "assets/certifications/ce_mark.png"
+    }
+  ],
+  "social_media": {
+    "linkedin": "https://linkedin.com/company/auditpro-enterprise",
+    "twitter": "https://twitter.com/auditpro_ent",
+    "facebook": "https://facebook.com/auditproenterprise",
+    "youtube": "https://youtube.com/@auditproenterprise"
+  },
+  "features": {
+    "show_certifications_on_quotes": true,
+    "show_social_media": false,
+    "include_company_profile": true,
+    "watermark_enabled": false,
+    "watermark_text": "CONFIDENTIAL",
+    "page_numbering": true,
+    "include_toc": true
+  },
+  "localization": {
+    "default_language": "en",
+    "default_currency": "INR",
+    "default_units": "metric",
+    "date_format": "DD/MM/YYYY",
+    "time_format": "24h",
+    "decimal_separator": ".",
+    "thousands_separator": ","
+  }
+}
